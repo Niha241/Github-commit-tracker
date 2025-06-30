@@ -10,7 +10,7 @@ A simple web application to track the latest commits form any public Github repo
 
 - HTML
 - CSS
-- Jaa Script
+- Java Script
 - Github API
 
 
